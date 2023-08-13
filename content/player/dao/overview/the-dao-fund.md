@@ -20,5 +20,5 @@ The current state of the DAO treasury can be viewed on the [Transparency page](h
 
 The DAO also has other sources of income:
 
-* A 2.5% transaction fee within the Decentraland Marketplacs on primary market commissions go to the DAO
+* A 2.5% transaction fee within the Decentraland Marketplace on primary market commissions go to the DAO
 * The OpenSea Marketplace also receives a 2.5% transaction fee for sales of LAND, Estates, Names, and wearables, [part of which is transferred to the DAO](https://etherscan.io/token/0x0f5d2fb29fb7d3cfee444a200298f468908cc942?a=0x9b814233894cd227f561b78cc65891aa55c62ad2).
